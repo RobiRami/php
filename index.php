@@ -1,5 +1,5 @@
 <?php
 
-//Add code here
+include("file.php"); // to add more files
 
 ?>
