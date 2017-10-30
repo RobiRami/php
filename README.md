@@ -1,2 +1,2 @@
 # php
-Help me with starting a php filz
+Help me with starting a php file
