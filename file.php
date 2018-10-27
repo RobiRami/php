@@ -1,4 +1,4 @@
 <?php
-  include('hacks.pgp');
+  include('hacks.php');
   echo "test";
 ?>
