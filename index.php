@@ -1,6 +1,6 @@
 <?php
 
-if (expression) { // do things }
+if (1 == 2) { // do things }
   include("file.php");
 
 ?>
