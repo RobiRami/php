@@ -1,5 +1,7 @@
 <?php
 
-include("file.php"); // to add more files
+if (1 == 2) { // do things }
+  include("file.php");
+  echo('2018)
 
 ?>
