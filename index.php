@@ -1,12 +1,10 @@
-<?php
+<!DOCTYPE html>
+<html>
+<body>
 
-if (1 == 2) { // do things 
+<title><?php echo date("Y"); ?></title>
+<h1>Welcome!</h1>
+<p>Enjoy this site.</p>
 
-  echo ("not gonna happen");
-  echo("nope");
-
-}
-  include("file.php");
-  echo('2019');
-
-?>
+</body>
+</html>
