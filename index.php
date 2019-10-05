@@ -5,6 +5,7 @@
 <title><?php echo date("Y"); ?></title>
 <h1>Welcome!</h1>
 <p>Enjoy this site.</p>
+<a href="./hacks.php">Go to the hacking page</a>
 
 </body>
 </html>
