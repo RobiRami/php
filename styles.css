@@ -1,3 +1,16 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  color: black;
+  background-color: red;
+  font-size: 15px;
+}
+
+.hacky {
+  background-color: black;
+  color: green;
+}
+
 .b {
   background-color: green;
   box-shadow: 10px 10px 5px grey;
