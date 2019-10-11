@@ -10,4 +10,13 @@ while ($j < 10) {
    echo "haha you are hacked!";
 }
 
+if(isset($_GET['hack']){
+   $h = $_GET['hack'];
+   if(is_numeric($h)){
+      for($i = 0; $i < $h; $i++) echo ("magix hacks #" . $i);
+   } else {
+      echo $h;  
+   }
+}
+
 ?>
